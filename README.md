@@ -3,7 +3,7 @@ Vintage typewriter sounds
 
 >Working fine with Python 3.6 on linux
 
->there are a few dependencies like Xlib and pygame (pip instal ___)
+>there are a few dependencies like Xlib and pygame ( pip install ___ )
 
 courtsey : [https://github.com/aizquier/typewriter-sounds](https://github.com/aizquier/typewriter-sounds)
 
